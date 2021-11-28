@@ -1,38 +1,62 @@
 # Projects & Progress List
- Attempting to make a todo list using github and markdown
+An attempt to make a todo list using github and markdown.
 
-Project Lil' Red Alchemist
-1) The Internet Was Probably A Mistake
-   [] Define the difference between this project and Internet Scrapbook Project
-   [] Fix and customize [ghost.io site](the-internet-was-probably-a-mistake.ghost.io)
+## Project Lil' Red Alchemist
+~~1) The Internet Was Probably A Mistake~~
+
+   ~~Define the difference between this project and *Internet Scrapbook Project*~~
+
+   ~~Fix and customize [ghost.io site](the-internet-was-probably-a-mistake.ghost.io)~~
+
+
 2) She Be Spittin Though
-3) Internet Scrapbook Project
-   [] Define the difference between this project and The Internet Was Probably A Mistake
-4) Spotify/Music Side Project
-5) The Galaxy is Limitless (And So Are We)
+   
 
-Margaret Catter Development
-1) Fix [margaretcatter website](http://margaretcatter.dev/)
+3) Internet Scrapbook Project
+   ~~Define the difference between this project and *The Internet Was Probably A Mistake*~~
+
+
+4) Spotify/Music Side Project
+5) Prep for Vlogmas 2021
+   - [ ] Write script for *Personal Introduction Video* - 12/1
+   - [ ] Write script for *Doing To Damn Much* - 12/2
+   - [ ] Write script for *My Favorite Books (Single Novels)* - 12/3
+   - [ ] Write script for *Things I Never Leave the House Without* - 12/4
+   - [ ] Write script for *Smart Dolls And The Art of Anticipation* - 12/5
+     - [ ] Buy Smart Doll outfits and accessories
+6) The Galaxy is Limitless (And So Are We)
+   - [ ] Write outline for *My Work Here Is Done* | Holly Goodwin 
+   - [ ] Write outline for *Please Don't Perceive Me* | Ashe Robbins
+   - [ ] Write outline for *In the Roots of The Gods Tree* | Cassidy Xanatos
+
+
+## Margaret Catter Development
+1) Fix gatsby website [margaretcatter](http://margaretcatter.dev/)
 2) Create new business cards for Pax Unplugged
 3) Rewrite Creating Your Own “Original” Systems lesson for Storytellers Collective
 4) Hot off the Press
 5) High Metropolys
+   - [ ] Worldbuilding & Lore
+   - [ ] Consolidate NPC list
+   - [ ] Consolidate Location list
+   - [ ] Write descriptions for known locations
    1) Ascent of Crystal Tower
+      - [ ] Write game lore
    2) Visits in the Dark
-      [] Think of new project name
+      - [ ] Think of new project name
    3) Burn out the Sun
-      [] Write plot summary in notebook - vampire game
+      - [ ] Write plot summary in notebook - vampire game
    4) Those Broken & Beloved Things
-      [] Cut out and insert icons
-      [] Consolidate list of jobs & classes from AoCT
-      [] Consolidate list of jobs & classes from VitD
-      [] Consolidate list of species from AoCT
-      [] Consolidate list of species from VitD
+      - [ ] Cut out and insert icons
+      - [ ] Consolidate list of jobs & classes from AoCT
+      - [ ] Consolidate list of jobs & classes from VitD
+      - [ ] Consolidate list of species from AoCT
+      - [ ] Consolidate list of species from VitD
 6) Look Ma, We Made It
-   [] Game Development Document
-   [] Game pitch document
-   [] Create a mood & asset board
+   - [ ] Game Development Document
+   - [ ] Game pitch document
+   - [ ] Create a mood & asset board
 
-Homestead / Personal Life
-[] Add Bills to google calendar
-[] Create a 2022 Quarterly S.M.A.R.T. Goals list
+## Homestead / Personal Life
+- [ ] Add bills to google calendar
+- [ ] Create a 2022 Quarterly S.M.A.R.T. Goals list
