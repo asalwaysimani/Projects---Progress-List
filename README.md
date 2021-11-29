@@ -32,6 +32,7 @@ An attempt to make a todo list using github and markdown.
 
 ## Margaret Catter Development
 1) Fix gatsby website [margaretcatter](http://margaretcatter.dev/)
+1.1) Branch repo to create GitPages - "OpenPrjPages"
 2) Create new business cards for Pax Unplugged
 3) Rewrite Creating Your Own “Original” Systems lesson for Storytellers Collective
 4) Hot off the Press
@@ -56,7 +57,3 @@ An attempt to make a todo list using github and markdown.
    - [ ] Game Development Document
    - [ ] Game pitch document
    - [ ] Create a mood & asset board
-
-## Homestead / Personal Life
-- [ ] Add bills to google calendar
-- [ ] Create a 2022 Quarterly S.M.A.R.T. Goals list
