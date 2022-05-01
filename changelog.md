@@ -1,6 +1,18 @@
-# projects changelog
+# Projects Changelog
 
 ## Changelong
+
+### [Version 3] - 2022-05-01
+
+#### Added
+
+#### Changed
+
+#### Completed
+
+#### Removed
+
+#### Devlog Notes
 
 ### [Version 2] - 2022-02-22
 
@@ -10,9 +22,8 @@
 
 #### Changed
 
-- No long Vlogmas prep now just general vlog prep list. 
+- No long Vlogmas prep now just general vlog prep list.
 - Removed dates from Prep Vlogs list.
-- 
 
 #### Completed
 
@@ -21,4 +32,4 @@
 
 #### Removed
 
-## Devlog Notes
+#### Devlog Notes
