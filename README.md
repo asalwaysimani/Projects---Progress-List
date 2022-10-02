@@ -19,7 +19,7 @@ A todo list using github for version tracking and written using markdown.
 4. Prep Vlogs
    - [ ] Write script for *Personal Introduction Video*
    - [ ] Write script for *Doing To Damn Much*
-   - [ ] Write script for *My Favorite Books (Single Novels.*
+   - [ ] Write script for *My Favorite Books (Single Novels)*
    - [ ] Write script for *Things I Never Leave the House Without*
    - [ ] Write script for *Smart Dolls And The Art of Anticipation*
      - [x] Buy Smart Doll outfits and accessories
@@ -42,7 +42,7 @@ A todo list using github for version tracking and written using markdown.
    - [ ] Consolidate Location list
    - [ ] Write descriptions for known locations
 5. Ascent of Crystal Tower
-   - [ ] Write game lore
+   - [ ] Work on game lore
 6. Visits in the Dark
    - [ ] Think of new project name
 7. Burn out the Sun
@@ -57,3 +57,5 @@ A todo list using github for version tracking and written using markdown.
     - [ ] Game Development Document
     - [ ] Game pitch document
     - [ ] Create a mood & asset board
+
+## Mnemosyne Ashwell
